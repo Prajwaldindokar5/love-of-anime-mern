@@ -16,7 +16,7 @@ export const animes = [
     name: "Bleach",
     slug: "bleach",
     status: "On Going",
-    season: 11,
+    season: 12,
     favouriteCharacter: "Ichigo Kurosaki",
     description: "A anime which is best and awesome",
     ratingsAverage: 4.7,
